@@ -1,0 +1,13 @@
+{
+  "name": "ts_stuff",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.1.0"
+  }
+}
